@@ -1,9 +1,11 @@
 # test-repository-2
 
-README.mdのmdはMarkdownの略でしょうけどMarkdownさえわからない  
-わかるとかわからないとか言うより使ったことないので知らないだけですが
+~~README.mdのmdはMarkdownの略でしょうけどMarkdownさえわからない~~  
+~~わかるとかわからないとか言うより使ったことないので知らないだけですが~~
+チートシートみつけた まあ使ってれば覚えるんだろうなぁ
+https://qiita.com/Qiita/items/c686397e4a0f4f11683d
 
-##2018-05-10
+## 2018-05-10
 
 GitHubのテストです。Web開発での利用を検証するために作成しています。  
 GitHubのアカウントを取得し、GutHub for Windowsをインストールし、2時間程度触ってみました。
@@ -21,4 +23,7 @@ Web開発をどのようなフローで行うかは人それぞれ（組織そ�
 （上記の1. が私のWindows機ではなくサーバーになっただけ）  
 時間があればそこらへん調べてみようと思っています。
 
+## メモ
 
+今日からはじめるGitHub 〜 初心者がGitをインストールして、プルリクできるようになるまでを解説
+https://employment.en-japan.com/engineerhub/entry/2017/01/31/110000
