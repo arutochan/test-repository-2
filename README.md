@@ -13,14 +13,16 @@
 
 そして面白いことにこのURLの後ろにファイル名を書くと、リポジトリ内のそのファイルにアクセスできる  
 
-<テスト.txt>
+<https://arutochan.github.io/test-repository-2/README.md>
+<https://arutochan.github.io/test-repository-2/テスト４.md>
+<https://arutochan.github.io/test-repository-2/テスト/phpファイル.php">
+
+表示可能なものは表示され、phpファイルなどはダウンロードされる
 
 これは隠し機能とかいうことではなく、公式にそういうものなのだろうか？  
 なんとなく色んな使い方ができそうな気がするけど  
 
 作業ログやToDoリストのホスティングとしてもよさそうな気もする  
-
-(テスト)
 
 ## 2018-05-25
 
