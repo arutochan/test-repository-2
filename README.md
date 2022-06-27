@@ -13,9 +13,9 @@
 
 そして面白いことにこのURLの後ろにファイル名を書くと、リポジトリ内のそのファイルにアクセスできる  
 
-<https://arutochan.github.io/test-repository-2/README.md>
-<https://arutochan.github.io/test-repository-2/テスト４.md>
-<https://arutochan.github.io/test-repository-2/テスト/phpファイル.php">
+<https://arutochan.github.io/test-repository-2/README.md>  
+<https://arutochan.github.io/test-repository-2/テスト４.md>  
+<https://arutochan.github.io/test-repository-2/テスト/phpファイル.php">  
 
 表示可能なものは表示され、phpファイルなどはダウンロードされる
 
